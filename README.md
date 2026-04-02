@@ -1,4 +1,4 @@
-\#  Proyecto Análisis de Clientes - Educom
+\# 📊 Proyecto Análisis de Clientes - Educom
 
 
 
@@ -6,7 +6,9 @@ Este proyecto simula un entorno real de análisis de datos en una empresa de tel
 
 
 
-\##  Tecnologías utilizadas
+\## Tecnologías utilizadas
+
+
 
 \- SQL Server
 
@@ -16,7 +18,9 @@ Este proyecto simula un entorno real de análisis de datos en una empresa de tel
 
 
 
-\##  Objetivo
+\## Objetivo
+
+
 
 Analizar el comportamiento de clientes, facturación y servicios para detectar oportunidades de negocio y churn.
 
@@ -26,7 +30,9 @@ Analizar el comportamiento de clientes, facturación y servicios para detectar o
 
 
 
-\###  1. Análisis General
+\### 1. Análisis General
+
+
 
 \- Total de clientes
 
@@ -40,7 +46,9 @@ Analizar el comportamiento de clientes, facturación y servicios para detectar o
 
 
 
-\###  2. Análisis de Servicios
+\### 2. Análisis de Servicios
+
+
 
 \- Servicios más contratados
 
@@ -54,7 +62,9 @@ Analizar el comportamiento de clientes, facturación y servicios para detectar o
 
 
 
-\##  Insights principales
+\## Insights principales
+
+
 
 \- El servicio más contratado no siempre es el más rentable
 
@@ -64,13 +74,17 @@ Analizar el comportamiento de clientes, facturación y servicios para detectar o
 
 
 
-\##  ETL
+\## ETL
+
+
 
 Los datos fueron generados y procesados con Python, y luego cargados en SQL Server respetando relaciones entre tablas.
 
 
 
-\##Autor
+\## Autor
+
+
 
 Eduardo Sebastian Garro
 
